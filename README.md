@@ -1,6 +1,6 @@
 # Parallel Implementation of Dense Matrix Chain Multiplication
 ## To run
-`git clone git@github.com:collinol/Parallel-Matrix-Multiplication.git`
+`git clone git@github.com:collinol/Parallel-Matrix-Multiplication.git`  
 `cd Parallel-Matrix-Multiplcation`
 `go run src/matrix_multiplication/matrixmultiply.go `
 ```
