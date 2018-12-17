@@ -3,8 +3,8 @@
 `git clone git@github.com:collinol/Parallel-Matrix-Multiplication.git`  
 `cd Parallel-Matrix-Multiplcation`  
 `go run src/matrix_multiplication/matrixmultiply.go `
+## Usage
 ```
-Usage:
     -f=value : Specifies directory size. Takes arguments
         s: Small
         m: Medium
