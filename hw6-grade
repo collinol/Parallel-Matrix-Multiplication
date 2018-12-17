@@ -1,0 +1,33 @@
+/* hw6 guideline */
+/* MPCS52060, Fall 2018 */
+
+/* === Minimum Requirements  === */
+/* Input/Output Component 			  5/5  */ 
+/* Sequential Version                            10/10 */ 
+/* Parallel Version 	                         20/20 */        
+/* Performance Analysis Writeup 	         32/35 
+
+I think the analysis was really good. The main problem I had was with your
+graphs. They were extremely hard to see because of the font-sizes so it made 
+it difficult to read through your explanations and then point back to the graphs. 
+
+*/        
+/* Complexity & style (modularity, code clarity
+         naming conventions, etc.) 	         15/15 */        
+
+
+/* === Advance Features ==== */
+/* Features                                      15/15 */ 
+
+/* Great work, Collin! Best of luck in all your future endeavors! */ 
+
+
+/* Note: This grade is final! Professor Samuels has looked over
+all assignments and agrees with deduction(s). The only adjustments
+will be if there is arithmetic mistake or the grader completely missed 
+a portion of your code. 
+
+/* _TOTAL-SCORE_    97/100 */
+
+
+/* graded by GRADERS_NAME_HERE */
